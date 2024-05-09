@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suleyman Mammadov</h1>
 <h3 align="center">Software Engineer</h3>
 
-![Banner](r_1173170_yVtzj.jpg)
+<div align="center">
+  <img src="r_1173170_yVtzj.jpg" alt="Banner Image" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenterum&label=Profile%20views&color=0e75b6&style=flat" alt="kenterum" /> </p>
 
