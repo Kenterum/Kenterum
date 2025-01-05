@@ -13,6 +13,15 @@
 
 - 📫 How to reach me **suleymammadov@gmail.com**
 
+
+<div align="center">
+  <img 
+    src="299B6CF7-9A36-4813-91C2-CC7D6598FE31.PNG" 
+    alt="Second Banner Image" 
+    width="500"
+  />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suleymammadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suleymammadov" height="30" width="40" /></a>
@@ -27,3 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenterum&show_icons=true&locale=en" alt="kenterum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenterum&" alt="kenterum" /></p>
+
+
+
+
