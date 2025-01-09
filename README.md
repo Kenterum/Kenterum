@@ -38,11 +38,6 @@
         alt="Stats 1"
       />
       <br><br>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=kenterum&show_icons=true&locale=en&theme=transparent&hide_border=true&bg_color=00000000"
-        alt="Stats 2"
-      />
-    </td>
   </tr>
   <tr style="border:none;">
     <td colspan="2" align="center" style="border:none;">
