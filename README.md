@@ -47,7 +47,7 @@
   <tr style="border:none;">
     <td colspan="2" align="center" style="border:none;">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=kenterum&theme=transparent&hide_border=true&background=00000000"
+        src="https://github-readme-stats.vercel.app/api?username=kenterum&theme=transparent&hide_border=true&background=00000000"
         alt="Stats 3"
       />
     </td>
