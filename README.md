@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Hadoop Ecosystem & Pandas Library**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **suleymammadov@gmail.com**
 
